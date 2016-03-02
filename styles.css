@@ -17,10 +17,9 @@ body{
 	background-repeat: repeat-x-loud;
 	background-attachment: fixed;
 }
-.lioncub {
-	background-image: url("Angrylittleguy.jpg");
+.cub {
+	background-color: #FF9999;
 	background-position: center;
-	background-repeat: no-repeat;
 	text-align: Center;
 }
 .mark {
@@ -29,9 +28,6 @@ body{
 	text-align: center;
 	padding: 10px
 }
-div {
-	boarder-style: solid;
-}
 #awesomeText {font-family:"Times New Roman",Georgia,Serif; text-align:center;}
 .soft {color: #FFFFFF;background-color:#FF33FF}
 .center {text-align:center;}
@@ -39,9 +35,9 @@ div {
 .temper {margin:0 auto;}
 #nav {
 	line-height:30px;
-	background-color:skyblue;
+	background-color:#FF6633;
 	text-align:center;
-	color:white;
+	color:#FFFFCC;
 	height:150px;
 	width:200px;
 	float:center;
