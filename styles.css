@@ -1,8 +1,24 @@
 p{
 	font-family: sans-serif;
-	color: #0000FF;
+	color: Red;
 }
-#awesomeText {font-family:"Times New Roman",Georgia,Serif;}
+body{
+	background-image: url("Feverray.jpg");
+	background-position: right top;
+	background-repeat: repeat-x-loud;
+	background-attachment: fixed;
+}
+h3{
+	background-image: url("Angrylittleguy.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+div{
+	background-color:opaque;
+}
+#awesomeText {font-family:"Times New Roman",Georgia,Serif; text-align:center;}
 .soft {color: #a8a8a8;}
 .center {text-align:center;}
 .container {margin:0 auto;}
+.left {text-align:left;}
+.mark {color:green; text-align: left;}
