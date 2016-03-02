@@ -1,6 +1,10 @@
-p{
+.main {
 	font-family: sans-serif;
-	color: Red;
+	color: White;
+	float: left;
+	text-align: center;
+	background-image: url("rhill.jpg");
+	background-size: 100% 100%;
 }
 body{
 	background-image: url("Feverray.jpg");
@@ -8,17 +12,30 @@ body{
 	background-repeat: repeat-x-loud;
 	background-attachment: fixed;
 }
-h3{
+.lioncub {
 	background-image: url("Angrylittleguy.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
+	text-align: Center;
 }
-div{
-	background-color:opaque;
+.mark {
+	background-color: black;
+	color:white;
+	text-align: center;
+	padding: 10px
 }
 #awesomeText {font-family:"Times New Roman",Georgia,Serif; text-align:center;}
-.soft {color: #a8a8a8;}
+.soft {color: #FFFFFF;background-color:#FF33FF}
 .center {text-align:center;}
-.container {margin:0 auto;}
 .left {text-align:left;}
-.mark {color:green; text-align: left;}
+.temper {margin:0 auto;}
+#nav {
+	line-height:30px;
+	background-color:skyblue;
+	text-align:center;
+	color:white;
+	height:150px;
+	width:200px;
+	float:center;
+	padding:30px;
+}
